@@ -22,15 +22,21 @@ Stick Hero is an interactive game where the player controls a stick figure that 
 4. If using IntelliJ IDEA, ensure that the JavaFX library is set up in the project dependencies.
 
 ## How to Play
-1. Start the game by running the main class.
-2. Use the arrow keys or mouse (depending on the version) to control the stick figure.
-3. Extend the stick to the correct length to land on the next platform.
-4. Try to reach the highest level possible without falling.
+Start the game by running the main class.
+The hero automatically moves towards the next pillar.
+Hold the Spacebar to extend the stick to the correct length.
+The stick must be long enough to reach the next pillar; if the length is insufficient, the hero will fall and the game will be over.
+Try to reach the highest level possible without falling.
 
-## Controls
-- **Left Arrow / A**: Move left.
-- **Right Arrow / D**: Move right.
-- **Spacebar**: Extend the stick to the required length.
+##Controls
+Spacebar: Hold to extend the stick to the required length.
+
+##Game Over and Resume
+If the hero fails to reach the next pillar, the game will end.
+You can resume the game by spending cherries you have collected during gameplay.
+Penalty / Fine: You’ll be charged a penalty or fine in the form of cherries you have collected.
+You can continue from where you fell by using the cherries, allowing you to keep playing.
+The more cherries you collect, the more chances you have to continue after falling.
 
 ## Game Design
 - The game uses **Object-Oriented Programming (OOP)** principles for organization and scalability.
