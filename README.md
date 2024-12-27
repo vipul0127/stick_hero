@@ -28,10 +28,10 @@ Hold the Spacebar to extend the stick to the correct length.
 The stick must be long enough to reach the next pillar; if the length is insufficient, the hero will fall and the game will be over.
 Try to reach the highest level possible without falling.
 
-##Controls
+## Controls
 Spacebar: Hold to extend the stick to the required length.
 
-##Game Over and Resume
+## Game Over and Resume
 If the hero fails to reach the next pillar, the game will end.
 You can resume the game by spending cherries you have collected during gameplay.
 Penalty / Fine: You’ll be charged a penalty or fine in the form of cherries you have collected.
