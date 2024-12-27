@@ -1,4 +1,4 @@
-# stick_hero-
+
 # Stick Hero Game
 
 ## Description
